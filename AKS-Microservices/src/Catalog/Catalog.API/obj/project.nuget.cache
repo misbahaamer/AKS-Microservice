@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "bKnPQe3b+ZjiifzUu5T7x2U+t+ov5FpRlwQtZguWpW/rCzG011JlGNOTkil6CgCHFwiTXhPrtwy/vOxxBsREgA==",
+  "dgSpecHash": "djgDbS6T4d8iOR6+Vx3EyydA4HaPQ1DCm5/BAOK/hXaTJ9pPYMbwdJ6+Qxy2DiilZhOE9J5y6zFLKCwM9ZxMzA==",
   "success": true,
   "projectFilePath": "D:\\dotnetprojects\\AKS-Miroservices\\AKS-Microservices\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
-    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.driver\\2.12.1\\mongodb.driver.2.12.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.driver.core\\2.12.1\\mongodb.driver.core.2.12.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }
