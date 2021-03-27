@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6C6hxy3gAJq8hPYx3aqYHRwTpMFOHh4jpljxBfi8i3PTr9RZIn0kw0dr8pSCIHRA2q9+B0+G+l5kELWT4SLAdQ==",
+  "dgSpecHash": "bKnPQe3b+ZjiifzUu5T7x2U+t+ov5FpRlwQtZguWpW/rCzG011JlGNOTkil6CgCHFwiTXhPrtwy/vOxxBsREgA==",
   "success": true,
   "projectFilePath": "D:\\dotnetprojects\\AKS-Miroservices\\AKS-Microservices\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
