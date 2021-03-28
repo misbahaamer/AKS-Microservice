@@ -32,4 +32,8 @@ D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
-D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs

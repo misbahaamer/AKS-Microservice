@@ -1,16 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "djgDbS6T4d8iOR6+Vx3EyydA4HaPQ1DCm5/BAOK/hXaTJ9pPYMbwdJ6+Qxy2DiilZhOE9J5y6zFLKCwM9ZxMzA==",
+  "dgSpecHash": "x54S6DSe/RtzOR0eKB1Tby0Wlrbr0KFxopJ0w9QB2dAvfJSa6nx+BHmAazno3Eq5Ds6cJgvELAJio+JPUifUrw==",
   "success": true,
   "projectFilePath": "D:\\dotnetprojects\\AKS-Miroservices\\AKS-Microservices\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.driver\\2.12.1\\mongodb.driver.2.12.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.driver.core\\2.12.1\\mongodb.driver.core.2.12.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Misbahuddin Aamer\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
