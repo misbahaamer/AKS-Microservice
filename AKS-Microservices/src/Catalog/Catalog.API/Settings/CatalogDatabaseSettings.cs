@@ -7,8 +7,8 @@ namespace Catalog.API.Settings
 {
     public class CatalogDatabaseSettings : ICatalogDatabaseSettings
     {
-        public string ConnectionString { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string DatabaseName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string CollectionName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public string ConnectionString { get; set ; }
+        public string DatabaseName     { get; set ; }
+        public string CollectionName   { get; set ; }
     }
 }
