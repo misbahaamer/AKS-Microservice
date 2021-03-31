@@ -37,3 +37,4 @@ D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
