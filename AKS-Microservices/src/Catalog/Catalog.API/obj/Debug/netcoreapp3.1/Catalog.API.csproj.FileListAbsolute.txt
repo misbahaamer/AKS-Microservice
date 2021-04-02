@@ -38,3 +38,11 @@ D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
 D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dotnetprojects\AKS-Miroservices\AKS-Microservices\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
